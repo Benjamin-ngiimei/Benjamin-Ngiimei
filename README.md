@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Benjamin Ngiimei</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamin-ngiimei&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin-ngiimei" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjamin-ngiimei" alt="benjamin-ngiimei" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon website clone**
+- 🔭 I’m currently working on **Real-time Chat web app**
 
 - 🌱 I’m currently learning **react js**
 
-- 💬 Ask me about **Html, css, javascript**
+- 💬 Ask me about **Html, css, javascript node js react js java python**
 
 - 📫 How to reach me **ngiimeibenjamin@gmail.com**
 - My Portfolio **https://myportfolio-11d9d.web.app/**
