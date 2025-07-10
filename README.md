@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjamin-ngiimei" alt="benjamin-ngiimei" /></a> </p>
 
-- 🔭 I’m currently working on **Real-time Chat web app**
-
 - 🌱 I’m currently learning **react js**
 
-- 💬 Ask me about **Html, css, javascript node js react js java python**
+- 💬 Ask me about **Html, css, javascript node js reactjs python**
 
 - 📫 How to reach me **ngiimeibenjamin@gmail.com**
 - My Portfolio **https://myportfolio-11d9d.web.app/**
@@ -19,7 +17,7 @@
 <a href="https://linkedin.com/in/benjamin ngiimei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin ngiimei" height="30" width="40" /></a>
 <a href="https://fb.com/ngiimei fii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngiimei fii" height="30" width="40" /></a>
 <a href="https://instagram.com/ngiimei fii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngiimei fii" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/benjamin ngiimei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="benjamin ngiimei" height="30" width="40" /></a>
+
 <a href="https://www.hackerearth.com/benjamin ngiimei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="benjamin ngiimei" height="30" width="40" /></a>
 </p>
 
