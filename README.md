@@ -105,6 +105,7 @@
 
 <h3 align="left">🐍 Contribution Snake:</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/benjamin-ngiimei/benjamin-ngiimei/main/dist/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/benjamin-ngiimei/benjamin-ngiimei/main/dist/snake.svg"
+alt="snake animation" />
 </p>
 
