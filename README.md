@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Benjamin Ngiimei</h1>
 <h3 align="center">A passionate software developer from India</h3>
+<h4 align="center">IT Enthusiast | Full Stack Developer | Data Analytics | MCA Graduate</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benjamin-ngiimei&label=Profile%20views&color=0e75b6&style=flat" alt="benjamin-ngiimei" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=benjamin-ngiimei" alt="benjamin-ngiimei" /></a> </p>
 
-- 🌱 I’m currently learning **react js**
-
+- 🌱 I’m currently doing Internship for **Fullstack Development**
 - 💬 Ask me about **Html, css, javascript node js reactjs python**
 
 - 📫 How to reach me **ngiimeibenjamin@gmail.com**
@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/benjamin ngiimei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin ngiimei" height="30" width="40" /></a>
-<a href="https://fb.com/ngiimei fii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngiimei fii" height="30" width="40" /></a>
-<a href="https://instagram.com/ngiimei fii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngiimei fii" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/benjamin-ngiimei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benjamin ngiimei" height="30" width="40" /></a>
+<a href="[https://fb.com/ngiimei fii](https://www.facebook.com/ngiimeifii)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngiimei fii" height="30" width="40" /></a>
+<a href="[https://instagram.com/ngiimei fii](https://www.instagram.com/am_bennnn/?__pwa=1)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngiimei fii" height="30" width="40" /></a>
 
 <a href="https://www.hackerearth.com/benjamin ngiimei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="benjamin ngiimei" height="30" width="40" /></a>
 </p>
