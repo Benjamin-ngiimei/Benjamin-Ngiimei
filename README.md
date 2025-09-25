@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **ngiimeibenjamin@gmail.com**
 - My Portfolio **https://myportfolio-11d9d.web.app/**
+- My LinkedIn **www.linkedin.com/in/benjamin-ngiimei**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
